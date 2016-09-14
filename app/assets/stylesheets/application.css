@@ -20,6 +20,6 @@ footer {
    height:30px;
    width:100%;
    background:#999;
-   padding-top:10px;
-   text-align: center
+   text-align: center;
+   padding-bottom:5px;
 }
